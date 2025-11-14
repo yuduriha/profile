@@ -36,6 +36,16 @@
 ||Unity|中(ブランクあり)|
 
 ## プライベートで作ったもの(でギリギリ人様に見せられる完成度のもの)
+### ペグソリティア
+ビー玉を飛び越えて移動させ、飛び越したビー玉を取り除いていき、最終的に盤面のビー玉を1つにするゲーム。  
+▼ リポジトリ  
+https://github.com/yuduriha/peg_solitaire  
+▼ github pages  
+https://yuduriha.github.io/peg_solitaire/  
+
+使用言語/ライブラリ
+* ts
+* React  
 
 ### 弾幕STGっぽいもの  
 ▼ リポジトリ  
